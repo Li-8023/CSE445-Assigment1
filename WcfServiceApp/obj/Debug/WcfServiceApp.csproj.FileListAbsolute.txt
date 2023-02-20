@@ -1,0 +1,7 @@
+C:\Users\helid\Documents\CSE 445\HW1_Part1\WcfServiceApp\bin\WcfServiceApp.dll.config
+C:\Users\helid\Documents\CSE 445\HW1_Part1\WcfServiceApp\bin\WcfServiceApp.dll
+C:\Users\helid\Documents\CSE 445\HW1_Part1\WcfServiceApp\bin\WcfServiceApp.pdb
+C:\Users\helid\Documents\CSE 445\HW1_Part1\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.AssemblyReference.cache
+C:\Users\helid\Documents\CSE 445\HW1_Part1\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\helid\Documents\CSE 445\HW1_Part1\WcfServiceApp\obj\Debug\WcfServiceApp.dll
+C:\Users\helid\Documents\CSE 445\HW1_Part1\WcfServiceApp\obj\Debug\WcfServiceApp.pdb
